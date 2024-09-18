@@ -1,0 +1,12 @@
+Date: 2/15/21
+Purchaser: Alice Smith
+Address: 222 Maple St
+Address: 75001, Plano, TX.
+Make: Kia
+Model: Rio
+Year: 2018
+Purchase Price: 15000
+Curb wt: 2900
+Odometer Reading: 8000
+Body Type: Sedan
+VIN: 456KL98765MN456

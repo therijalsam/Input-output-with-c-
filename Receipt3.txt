@@ -1,0 +1,12 @@
+Date: 3/30/21
+Purchaser: John Doe
+Address: 333 Oak Ave
+Address: 75002, Frisco, TX.
+Make: Dodge
+Model: Dart
+Year: 2019
+Purchase Price: 18000
+Curb wt: 3100
+Odometer Reading: 5000
+Body Type: Hatchback
+VIN: 789MN12345OP678

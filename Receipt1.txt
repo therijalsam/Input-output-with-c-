@@ -1,0 +1,12 @@
+Date: 1/1/21
+Purchaser: Bill Brown
+Address: 111 Dallas Ln
+Address: 75005, Dallas, TX.
+Make: Jeep
+Model: Patriot
+Year: 2016
+Purchase Price: 11450
+Curb wt: 3200
+Odometer Reading: 12237
+Body Type: SUV
+VIN: 123JC48931HN123
